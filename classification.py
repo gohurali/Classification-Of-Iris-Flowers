@@ -22,4 +22,4 @@ names = ['sepal-length','sepal-width','petal-length','petal-width','class']
 dataset = pandas.read_csv(url,names=names)
 
 dataset.plot(kind='box', subplots=True, layout=(2,2),sharex=False, sharey=False)
-plt.show()
+plt.show(block=True)
