@@ -1,2 +1,2 @@
 # Classification-Of-Iris-Flowers
-Knowns as the Hello World Program for Machine Learning. This program is meant for myself to get an understanding of machine learning within python.
+Utilizing various machine learning algorithms to classify Iris flowers and determining the best algorithm to accuratly guess the class of flower.
